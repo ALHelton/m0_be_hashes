@@ -9,8 +9,8 @@
 ## Directions
 
 Read the directions and complete all activities in each file, in this order:
-- `syntax_cleanup.rb`
-- `hashes_1.rb`
+- X `syntax_cleanup.rb`
+- X `hashes_1.rb`
 - `hashes_2.rb`
 - `self_eval.md`
 

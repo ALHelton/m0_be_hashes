@@ -7,7 +7,8 @@ states = {
   "Colorado" => "CO"
 }
 
-# Use the each method to iterate through it and print out a sentence stating each state name and abbreviation
+# Use the each method to iterate through it and print out a sentence 
+# stating each state name and abbreviation
 #
 #
 #
@@ -23,7 +24,8 @@ birthdays = {
   "Jeff" => "February 12"
 }
 
-# Use the each method to iterate through it and print out a sentence stating each friends name and birthday
+# Use the each method to iterate through it and print out a sentence 
+# stating each friends name and birthday
 #
 #
 #
@@ -39,7 +41,8 @@ login_statuses = {
   "Jeff" => true
 }
 
-# Use the each method to iterate through it and print ONLY the names of friends who are "logged in"
+# Use the each method to iterate through it and print ONLY the names 
+# of friends who are "logged in"
 #
 #
 #
